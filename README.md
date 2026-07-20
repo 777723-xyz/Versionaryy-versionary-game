@@ -1,2 +1,0 @@
-# Versionary
-Código do jogo
